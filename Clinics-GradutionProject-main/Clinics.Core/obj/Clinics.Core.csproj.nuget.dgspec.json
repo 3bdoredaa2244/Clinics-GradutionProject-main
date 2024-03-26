@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Graduation-Project-last\\Clinics-API\\Clinics\\Clinics.Core\\Clinics.Core.csproj": {}
+  },
+  "projects": {
+    "F:\\Graduation-Project-last\\Clinics-API\\Clinics\\Clinics.Core\\Clinics.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Graduation-Project-last\\Clinics-API\\Clinics\\Clinics.Core\\Clinics.Core.csproj",
+        "projectName": "Clinics.Core",
+        "projectPath": "F:\\Graduation-Project-last\\Clinics-API\\Clinics\\Clinics.Core\\Clinics.Core.csproj",
+        "packagesPath": "C:\\Users\\Moham\\.nuget\\packages\\",
+        "outputPath": "F:\\Graduation-Project-last\\Clinics-API\\Clinics\\Clinics.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

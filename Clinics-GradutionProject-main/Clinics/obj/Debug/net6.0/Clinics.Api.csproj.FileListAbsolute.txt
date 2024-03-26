@@ -1,0 +1,441 @@
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.exe
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\appsettings.Development.json
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\appsettings.json
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Azure.Core.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Azure.Identity.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Humanizer.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\SendGrid.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\StarkbankEcdsa.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.CodeDom.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Text.Json.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.pdb
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.AssemblyReference.cache
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfoInputs.cache
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfo.cs
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CoreCompileInputs.cache
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.build.json
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.development.json
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\scopedcss\bundle\Clinics.Api.styles.css
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CopyComplete
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.dll
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\refint\Clinics.Api.dll
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.pdb
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.deps.json
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.runtimeconfig.json
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.dll
+E:\Graduation Project -Updated\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.pdb
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.genruntimeconfig.cache
+E:\Graduation Project -Updated\Clinics\Clinics\obj\Debug\net6.0\ref\Clinics.Api.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\appsettings.Development.json
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\appsettings.json
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.exe
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.deps.json
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.runtimeconfig.json
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.pdb
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Azure.Core.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Azure.Identity.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Humanizer.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\SendGrid.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\StarkbankEcdsa.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.CodeDom.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Text.Json.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.pdb
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.AssemblyReference.cache
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfoInputs.cache
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfo.cs
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CoreCompileInputs.cache
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.build.json
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.development.json
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\scopedcss\bundle\Clinics.Api.styles.css
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CopyComplete
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.dll
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\refint\Clinics.Api.dll
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.pdb
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.genruntimeconfig.cache
+E:\Recipe-API\Clinics\Clinics\obj\Debug\net6.0\ref\Clinics.Api.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Mvc.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Razor.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Helpers.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.dll
+E:\Recipe-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.AssemblyReference.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfoInputs.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfo.cs
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CoreCompileInputs.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\appsettings.Development.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\appsettings.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.exe
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.deps.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.runtimeconfig.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Azure.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Azure.Identity.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Humanizer.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Mvc.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Razor.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Helpers.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\SendGrid.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\StarkbankEcdsa.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.CodeDom.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Text.Json.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.build.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.development.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\scopedcss\bundle\Clinics.Api.styles.css
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CopyComplete
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\refint\Clinics.Api.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.genruntimeconfig.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\ref\Clinics.Api.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\appsettings.Development.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\appsettings.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.exe
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.deps.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.runtimeconfig.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Api.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Azure.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Azure.Identity.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Humanizer.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Mvc.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Razor.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.Helpers.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Web.WebPages.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\SendGrid.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\StarkbankEcdsa.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.CodeDom.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Memory.Data.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Text.Json.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.Core.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Clinics.EF.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.AssemblyReference.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfoInputs.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.AssemblyInfo.cs
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CoreCompileInputs.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.build.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\staticwebassets.development.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\scopedcss\bundle\Clinics.Api.styles.css
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.csproj.CopyComplete
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\refint\Clinics.Api.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\Clinics.Api.genruntimeconfig.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\obj\Debug\net6.0\ref\Clinics.Api.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Hangfire.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Hangfire.NetCore.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\Hangfire.SqlServer.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll

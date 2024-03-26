@@ -1,0 +1,48 @@
+E:\Graduation Project -Updated\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.deps.json
+E:\Graduation Project -Updated\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.dll
+E:\Graduation Project -Updated\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.AssemblyReference.cache
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfoInputs.cache
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfo.cs
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.CoreCompileInputs.cache
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.dll
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\refint\Clinics.Core.dll
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation Project -Updated\Clinics\Clinics.Core\obj\Debug\net6.0\ref\Clinics.Core.dll
+E:\Recipe-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.deps.json
+E:\Recipe-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.dll
+E:\Recipe-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.AssemblyReference.cache
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfoInputs.cache
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfo.cs
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.CoreCompileInputs.cache
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.dll
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\refint\Clinics.Core.dll
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.pdb
+E:\Recipe-API\Clinics\Clinics.Core\obj\Debug\net6.0\ref\Clinics.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.deps.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.AssemblyReference.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfoInputs.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfo.cs
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.CoreCompileInputs.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\refint\Clinics.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\ref\Clinics.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.deps.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\bin\Debug\net6.0\Clinics.Core.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.AssemblyReference.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfoInputs.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.AssemblyInfo.cs
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.csproj.CoreCompileInputs.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\refint\Clinics.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\Clinics.Core.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.Core\obj\Debug\net6.0\ref\Clinics.Core.dll

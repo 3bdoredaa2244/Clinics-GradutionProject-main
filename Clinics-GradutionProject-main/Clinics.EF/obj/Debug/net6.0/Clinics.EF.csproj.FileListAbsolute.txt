@@ -1,0 +1,68 @@
+E:\Graduation Project -Updated\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.deps.json
+E:\Graduation Project -Updated\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.runtimeconfig.json
+E:\Graduation Project -Updated\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.dll
+E:\Graduation Project -Updated\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.pdb
+E:\Graduation Project -Updated\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.dll
+E:\Graduation Project -Updated\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.AssemblyReference.cache
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfoInputs.cache
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfo.cs
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CoreCompileInputs.cache
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CopyComplete
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.dll
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\refint\Clinics.EF.dll
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.pdb
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.genruntimeconfig.cache
+E:\Graduation Project -Updated\Clinics\Clinics.EF\obj\Debug\net6.0\ref\Clinics.EF.dll
+E:\Recipe-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.deps.json
+E:\Recipe-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.runtimeconfig.json
+E:\Recipe-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.dll
+E:\Recipe-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.pdb
+E:\Recipe-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.dll
+E:\Recipe-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.AssemblyReference.cache
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfoInputs.cache
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfo.cs
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CoreCompileInputs.cache
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CopyComplete
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.dll
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\refint\Clinics.EF.dll
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.pdb
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.genruntimeconfig.cache
+E:\Recipe-API\Clinics\Clinics.EF\obj\Debug\net6.0\ref\Clinics.EF.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.AssemblyReference.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfoInputs.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfo.cs
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CoreCompileInputs.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.deps.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.runtimeconfig.json
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CopyComplete
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\refint\Clinics.EF.dll
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.pdb
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.genruntimeconfig.cache
+E:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\ref\Clinics.EF.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.deps.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.runtimeconfig.json
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.EF.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\bin\Debug\net6.0\Clinics.Core.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.AssemblyReference.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfoInputs.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.AssemblyInfo.cs
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CoreCompileInputs.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.csproj.CopyComplete
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\refint\Clinics.EF.dll
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.pdb
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\Clinics.EF.genruntimeconfig.cache
+F:\Graduation-Project-last\Clinics-API\Clinics\Clinics.EF\obj\Debug\net6.0\ref\Clinics.EF.dll
